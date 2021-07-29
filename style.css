@@ -1,0 +1,107 @@
+*{
+
+    margin:0px;
+    padding: 0px;
+}
+
+/* common style */
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+small{
+    color:gray;
+}
+
+p{
+    color:gray;
+}
+
+span{
+    color:#E76F51;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color:white;
+}
+/* ------------------------header------------------ */
+
+header{
+    background-color: #264653;
+}
+
+
+button{
+border:none;
+outline:none;
+background-color: #E76F51;
+padding: 10px 50px;
+border-radius: 5px;
+
+}
+
+
+/*---------------------------------- future-bike----------------------------- */
+
+
+.grayscale{
+    filter: grayscale(100%);
+}
+
+
+
+
+/*----------------- claints-section--------------------------- */
+
+.icon .fas{
+    color:gold;
+
+}
+.icon .fas:nth-child(5){
+    color:gray;
+}
+
+
+.client-name{
+    color: #23A6F0;
+    font-size: 24px;
+    text-transform: capitalize;
+
+}
+
+
+
+/* -------------------------------------  bike-detailse ----------------------------------*/
+
+.bike-ditailse-section{
+    background-color: #2F4F4F;
+}
+.price{
+    color:orange;
+}
+
+
+/* -------------------------footer */
+
+footer{
+    background:#0B0D17;
+    ;
+}
+
+.footer-icon .fab{
+    font-size: 25px;
+}
+
+
+
+
+
+
+.facility-section{
+   
+}
